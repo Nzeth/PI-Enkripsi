@@ -1,0 +1,7 @@
+#Wed Mar 08 21:03:09 ICT 2017
+base.0=C\:\\Users\\Fikri\\AndroidStudioProjects\\Enkripsi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8b9e205907416ea91c9c8bac5a9e3f809ac73386
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Fikri\\AndroidStudioProjects\\Enkripsi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f0cc4b02f4edc05bea8b10cd100567de2e49ec5a\\classes.dex
+base.1=C\:\\Users\\Fikri\\AndroidStudioProjects\\Enkripsi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f0cc4b02f4edc05bea8b10cd100567de2e49ec5a
+file.0=C\:\\Users\\Fikri\\AndroidStudioProjects\\Enkripsi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8b9e205907416ea91c9c8bac5a9e3f809ac73386\\classes.dex
